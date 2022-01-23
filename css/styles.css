@@ -130,7 +130,7 @@ header {
     width: 90%;
 }
 
-.certifications p {
+.certifications li {
     font-style: italic;
 }
 
